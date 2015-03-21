@@ -1,4 +1,4 @@
-package worldbank.org.gridsensor;
+package com.andrewwhitby.gridsensor;
 
 import android.annotation.TargetApi;
 import android.content.Context;
